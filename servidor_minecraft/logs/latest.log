@@ -1,0 +1,43 @@
+[07May2025 00:49:35.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[07May2025 00:49:35.784] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[07May2025 00:49:35.786] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[07May2025 00:49:35.890] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[07May2025 00:49:36.033] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/loscachibos/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[07May2025 00:49:36.321] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[07May2025 00:49:37.657] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[07May2025 00:49:38.533] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[07May2025 00:49:38.684] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/loscachibos/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[07May2025 00:49:46.049] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[07May2025 00:49:46.049] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[07May2025 00:49:46.055] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[07May2025 00:49:47.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07May2025 00:49:47.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[07May2025 00:49:48.920] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07May2025 00:49:51.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[07May2025 00:49:52.016] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[07May2025 00:49:52.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[07May2025 00:49:52.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07May2025 00:49:52.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07May2025 00:49:52.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07May2025 00:49:52.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07May2025 00:49:52.894] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07May2025 00:49:52.951] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07May2025 00:49:52.951] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07May2025 00:49:52.952] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07May2025 00:49:52.952] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07May2025 00:49:53.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07May2025 00:49:58.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07May2025 00:49:58.922] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 00:49:58.924] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 00:49:59.245] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 949 ms
+[07May2025 00:49:59.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.281s)! For help, type "help"
+[07May2025 00:49:59.261] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07May2025 00:51:58.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CANLCE[/192.168.191.40:62718] logged in with entity id 7 at (49.5, 77.0, -41.5)
+[07May2025 00:51:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CANLCE joined the game
+[07May2025 00:57:18.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CANLCE was slain by Zombie
+[07May2025 00:57:21.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CANLCE moved too quickly! 3.6240019300969806,1.0244240882136921,-9.29831693956109
+[07May2025 00:57:29.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CANLCE lost connection: Disconnected
+[07May2025 00:57:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CANLCE left the game
+[07May2025 00:57:29.112] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07May2025 00:57:54.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CANLCE[/192.168.191.40:63069] logged in with entity id 1940 at (-74.44385954595406, 65.17675927506424, 99.19392396019857)
+[07May2025 00:57:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CANLCE joined the game
