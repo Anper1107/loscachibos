@@ -709,3 +709,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07May2025 00:57:53.168] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
 [07May2025 00:57:54.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CANLCE[/192.168.191.40:63069] logged in with entity id 1940 at (-74.44385954595406, 65.17675927506424, 99.19392396019857)
 [07May2025 00:57:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CANLCE joined the game
+[07May2025 00:59:55.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CANLCE lost connection: Disconnected
+[07May2025 00:59:55.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CANLCE left the game
+[07May2025 00:59:59.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 00:59:59.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 01:04:59.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 01:04:59.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
